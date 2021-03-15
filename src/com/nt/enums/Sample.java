@@ -6,6 +6,7 @@ public class Sample {
 System.out.println("Rashid Khan");
 System.out.println("Mazhar Khan");
 System.out.println("Manjeet Khan");
+System.out.println("Chandan");
 	}
 
 }
